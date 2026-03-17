@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>mon emploi du temps</title>
+</head>
+<body>
+<table border="1">
+<tr>
+    <th>heure</th>
+    <th>08:00_09:30</th>
+    <th>09:30_11:00</th>
+    <th>11:00_12:30</th>
+    <th>12:30_14:00</th>
+    <th>14:00_15:30</th>
+    <th>15:30_17:00</th>
+</tr>
+<tr>
+    <td>lundi</td>
+    <td>cour python</td>
+    <td>cour algorithme</td>
+    <td bgcolor="green">
+    <td>td/tp algorithme G1</td>
+    <td>td/tp python G3</td>
+    <td>td/tp python G2</td>
+</tr>
+<tr>
+    <td>mardi</td>
+    <td>td/tp python G1</td>
+    <td bgcolor="green">
+    <td>digital skills</td>
+    <td>digital skills</td>
+    <td bgcolor="green">
+    <td bgcolor="green">
+</tr>
+<tr>
+    <td>mercredi</td>
+    <td bgcolor="green">
+    <td bgcolor="green">
+    <td bgcolor="green">  
+    <td>td/tp algorithme G2</td>
+    <td>td algebre</td> 
+    <td>td analyse</td>
+</tr>
+<tr>
+    <td>jeudi</td>
+    <td>traitement du signal</td>
+    <td>traitament du signal</td>
+    <td bgcolor="green">
+    <td bgcolor="green">
+    <td bgcolor="green">
+    <td bgcolor="green">
+</tr>
+<tr>
+    <td>vendredi</td>
+    <td>cour algebre</td>
+    <td>cour analyse</td>
+    <td bgcolor="green">
+    <td bgcolor="green">
+    <td bgcolor="green">
+    <td bgcolor="green">
+</tr>
+<tr>
+    <td>samedi</td>
+    <td bgcolor="green">
+    <td bgcolor="green">
+    <td bgcolor="green">
+    <td>td/tp programmatoin web1 G2</td>
+    <td>cour programmation web1</td> 
+    <td>td/tp programmation web1 G1</td>
+</tr>
+<tr>
+    <td>dimenche</td>
+    <td bgcolor="green">
+    <td bgcolor="green">
+    <td bgcolor="green">
+    <td bgcolor="green">
+    <td bgcolor="green">
+    <td bgcolor="green">
+</tr>
+</table>
+</body>
+</html>
